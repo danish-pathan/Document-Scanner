@@ -3,4 +3,4 @@ I have implemented this using OpenCV and Python. The application is designed to 
 It utilizes contour detection and image thresholding for automatic document extraction, along with perspective transformation for correcting skew and perspective distortions, 
 and image cropping and resizing for producing clean and well-framed digital copies.
 
-For examples of input images and the corresponding output results after scanning, please refer to the example_images.md document in this repository.
+For examples of input images and the corresponding output results after scanning, please refer to the "Input and Output.pdf" document in this repository.
